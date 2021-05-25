@@ -251,9 +251,9 @@ h1{
     bottom: 189px;
 }
 
-/* #container{
+#container{
     transform: scale(0.8, 0.8) translate(0, 700px);
-} */
+}
 
 .label-box{
     position: absolute;
